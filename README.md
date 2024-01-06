@@ -1,4 +1,6 @@
-# Web App React Nodejs w/ GraphQL Tailwind and Docker
+# docker command to run:
+docker-compose up
+
 
 
 
